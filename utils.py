@@ -1,5 +1,5 @@
 import os
-
+   
 
 google_drive_paths = {
     "stylegan2-ffhq-config-f.pt": "https://drive.google.com/uc?id=1EM87UquaoQmk17Q8d5kYIAHqu0dkYqdT",
