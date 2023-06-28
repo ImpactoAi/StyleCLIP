@@ -11,8 +11,6 @@ Mapper: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.s
   
 </p>
 
-
-
 ![](img/teaser.png)
 
 > **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
